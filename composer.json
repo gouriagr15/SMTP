@@ -1,0 +1,18 @@
+{
+    "name": "czone/mil",
+    "autoload": {
+        "psr-4": {
+            "Czone\\Mil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gouriagr15",
+            "email": "109460267+gouriagr15@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
